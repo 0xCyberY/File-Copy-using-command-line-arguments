@@ -1,0 +1,4 @@
+$ gcc copy\ files\ using\ command\ line.c
+$ ./a.out file1 file2
+$ cat file2
+Hi this is source
